@@ -1,0 +1,11 @@
+﻿.noshow {
+	display: none;
+}
+
+img {
+	vertical-align: middle;
+}
+
+#ReloadTime {
+	width: 50px;
+}
